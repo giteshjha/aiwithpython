@@ -88,6 +88,8 @@ THE SOFTWARE.
 
 @angular/material/icon
 
+@angular/material/table
+
 @angular/material/toolbar
 
 @angular/platform-browser
